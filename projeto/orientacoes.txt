@@ -1,0 +1,1 @@
+-> Faça o download do arquivo e mova-o para a pasta do seu usuário que será utilizada como diretório de trabalho no VS Code. <-
